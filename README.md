@@ -1,2 +1,6 @@
 # YOLOv5-improvement
-Backup &amp; some improvement idea for YOLOv5
+
+
+## References
+  - https://github.com/ultralytics/yolov5
+  - https://github.com/huggingface/pytorch-image-models
